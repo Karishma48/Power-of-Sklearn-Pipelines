@@ -29,6 +29,10 @@ Handled both numerical and categorical data.
 
  Whether you're working with small or large datasets, pipelines simplify and standardize your workflow.
 
+ ![Dashboard Screenshot](assets/dashboard.png)
+
+ ![Dashboard Screenshot](assets/dashboard.png1)
+
 
 💬 If you’re also exploring model pipelines or have tips/tricks to share, let’s connect in the comments!
 Here is the link of the model :- https://lnkd.in/gpbmRxEz
